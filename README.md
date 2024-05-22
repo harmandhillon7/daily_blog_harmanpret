@@ -4,7 +4,7 @@
 ## Overview
 - **Training Duration:** 1st January - 20th May
 - **Skills Learned:** SQL, PL/SQL, Oracle Reports, Oracle Forms
-- **Project:** Colonimeter Reading using Oracle Forms and Reports
+- **Project:** Colony Rent Tracker using Oracle Forms and Reports
 
 ---
 
