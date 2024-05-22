@@ -86,7 +86,7 @@
 
 ## March - May
 
-### Project Development: Colonimeter Reading
+### Project Development: Colony Rent Tracker
 
 **Project Description:**
 - Build a system to manage room charges for employees,employee information using Oracle Forms and Reports.
